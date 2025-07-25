@@ -1,2 +1,30 @@
-# emi_calculator
-A valuable tool that helps you to figure out how much you need to pay as an EMI based on the loan amount and compare with multiple loan tenures. You need to enter the rate of interest manually.
+# 📊 Loan EMI Calculator Tool
+
+A simple and flexible Python-based tool to help you calculate your monthly EMI (Equated Monthly Installment) for various loan amounts, tenures, and interest rates. It also computes total interest paid and total repayment amount, helping users make smarter financial decisions.
+
+---
+
+## 🚀 Features
+
+- Calculate EMI for multiple loan amounts and tenures
+- Generate full EMI tables (monthly breakdown)
+- View total repayment and total interest
+- Supports custom interest rates
+- Clean tabular output
+- Great for personal loan planning, home loan decisions, or educational purposes
+
+---
+
+## 📌 Why I Built This
+
+During my own loan planning, I realized how complex EMI calculations and comparisons can get—especially with multiple SIPs, EMIs, and financial commitments. So I built this tool to automate everything, and I’m sharing it to help others manage finances better too.
+
+---
+
+## 🛠️ How to Use
+
+### 1. Clone this repository:
+
+```bash
+git clone https://github.com/Sh0urjya/emi_calculator.git
+cd emi-calculator

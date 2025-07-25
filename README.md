@@ -28,3 +28,20 @@ During my own loan planning, I realized how complex EMI calculations and compari
 ```bash
 git clone https://github.com/Sh0urjya/emi_calculator.git
 cd emi-calculator
+```
+### 2. Install dependencies (if any)
+Most likely, only tabulate or pandas is required.
+
+### 3. Run the tool:
+```bash
+python emi_calculator.py
+```
+You’ll be prompted to enter:
+Loan amount (₹)
+Tenure (in months or years)
+Annual Interest Rate (%)
+
+The tool will then display:
+Monthly EMI
+Total payment
+Total interest
